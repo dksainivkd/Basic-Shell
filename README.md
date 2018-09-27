@@ -6,7 +6,7 @@ Files:
 2) `util.h`   - supporting header file containing declaration of certain functions and variables
 3) `README`   - Documentation
 
-Features
+### Features
 ==============
 
 * Basic commands: `pwd`, `clear`,`ls` and `cd`
